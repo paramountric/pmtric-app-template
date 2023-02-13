@@ -3,7 +3,7 @@ This is a starter Next.js app for a turbo monorepo
 ## Instructions
 
 ```bash
-npx create-next-app -e add-url-to-repo // create the app in the apps folder of the monorepos
+npx create-next-app -e https://github.com/paramountric/pmtric-app-template // create the app in the apps folder of the monorepos
 ```
 
 ```bash
